@@ -45,7 +45,6 @@ Me gusta aprender haciendo proyectos, experimentar con nuevas herramientas y mej
 | [SIGI](https://github.com/Nono-st/SIGI) | Sistema de gestión de inventario desarrollado con PHP y SQLite. |
 | [Mesa Libre](https://github.com/Nono-st/Mesa-Libre) | Aplicación web para gestionar reservas de restaurantes. |
 | [Colegio de Mandatarios](https://github.com/Nono-st/Colegio_Mandatarios) | Plataforma de gestión para un colegio profesional. |
-| [SavePoint](https://github.com/Nono-st/SavePoint) | Proyecto personal orientado a la productividad y la música. |
 
 ## Mi entorno de desarrollo
 
