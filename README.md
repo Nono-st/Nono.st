@@ -30,7 +30,6 @@ Me gusta aprender haciendo proyectos, experimentar con nuevas herramientas y mej
 **Desarrollo web**
 
 ![React](https://img.shields.io/badge/React-26233A?style=flat-square&logo=react&logoColor=9CCFD8)
-square&logo=express&logoColor=E0DEF4)
 
 **Bases de datos y herramientas**
 
